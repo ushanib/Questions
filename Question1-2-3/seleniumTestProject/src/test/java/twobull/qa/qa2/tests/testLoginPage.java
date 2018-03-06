@@ -1,4 +1,4 @@
-package twobull.qa.qa1.tests;
+package twobull.qa.qa2.tests;
 
 /**
  * Created by ushani on 3/6/18.
@@ -9,9 +9,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-import twobull.qa.qa1.pages.HomePage;
-import twobull.qa.qa1.pages.LoginPage;
-import twobull.qa.qa1.pages.WelcomePage;
+import twobull.qa.qa2.pages.HomePage;
+import twobull.qa.qa2.pages.LoginPage;
+import twobull.qa.qa2.pages.WelcomePage;
 
 import java.util.concurrent.TimeUnit;
 

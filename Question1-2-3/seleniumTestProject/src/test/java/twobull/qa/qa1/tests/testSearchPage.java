@@ -1,4 +1,4 @@
-package twobull.qa.qa2.tests;
+package twobull.qa.qa1.tests;
 
 /**
  * Created by ushani on 3/6/18.
@@ -12,8 +12,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-import twobull.qa.qa2.pages.SearchPage;
-import twobull.qa.qa2.pages.ResultsPage;
+import twobull.qa.qa1.pages.SearchPage;
+import twobull.qa.qa1.pages.ResultsPage;
 
 import java.util.concurrent.TimeUnit;
 

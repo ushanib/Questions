@@ -1,4 +1,4 @@
-package twobull.qa.qa2.pages;
+package twobull.qa.qa1.pages;
 
 /**
  * Created by ushani on 3/6/18.

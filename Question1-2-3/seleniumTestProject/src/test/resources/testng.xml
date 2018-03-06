@@ -3,8 +3,8 @@
 <suite name="Tests" verbose="5">
   <test name="Test1">
     <classes>
-      <class name="twobull.qa.qa1.tests.testLoginPage"/>
-      <class name="twobull.qa.qa2.tests.testSearchPage"/>
+      <class name="twobull.qa.qa1.tests.testSearchPage"/>
+      <class name="twobull.qa.qa2.tests.testLoginPage"/>
     </classes>
   </test>  
 </suite>
